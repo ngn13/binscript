@@ -1,4 +1,4 @@
-from ins import Ins
+from binscript.ins import Ins
 
 class Parser:
     def __init__(self):

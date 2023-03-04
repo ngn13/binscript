@@ -1,6 +1,6 @@
 from sys import argv
-from bsc import Bsc
-from cli import Cli
+from binscript.bsc import Bsc
+from binscript.cli import Cli
 
 def main():
     bsc = Bsc()

@@ -1,5 +1,5 @@
-from lexer import Lexer
-from parser import Parser
+from binscript.lexer import Lexer
+from binscript.parser import Parser
 
 class Bsc:
     def __init__(self):
