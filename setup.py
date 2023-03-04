@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
-VERSION = "0.0.1" 
-DESCRIPTION = "A simple scriptting language for buffer overflow exploitation"
+VERSION = "0.0.2" 
+DESCRIPTION = "c"
 
 setup(
         name="binscript", 
